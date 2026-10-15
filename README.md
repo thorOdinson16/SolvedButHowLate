@@ -108,4 +108,4 @@ under a pooled time budget. Kaggle, Google: The Gemma 4 Developer Agent, Paper T
 
 ## Licence
 
-No licence has been chosen yet. Until one is added, all rights are reserved by the author.
+Code: [MIT](LICENSE). Paper text and figures: CC BY 4.0 (as released on Kaggle).
