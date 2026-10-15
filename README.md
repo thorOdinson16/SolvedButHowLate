@@ -2,8 +2,6 @@
 
 **An anytime curve for a local 4-bit Gemma 4 coding agent under a pooled time budget**
 
-Abhijna DS, PES University, Bangalore, India
-
 Paper for the Kaggle competition *Google: The Gemma 4 Developer Agent, Paper Track*.
 This repository holds the analysis code, aggregate results, figures and paper source.
 
@@ -104,7 +102,7 @@ exploratory. Details are in section 7 of the paper.
 ## Citation
 
 ```
-Abhijna DS. Solved, but How Late? An anytime curve for a local 4-bit Gemma 4 coding agent
+Solved, but How Late? An anytime curve for a local 4-bit Gemma 4 coding agent
 under a pooled time budget. Kaggle, Google: The Gemma 4 Developer Agent, Paper Track, 2026.
 ```
 
