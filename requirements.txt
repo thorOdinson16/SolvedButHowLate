@@ -1,0 +1,6 @@
+# versions used to produce the reported numbers (Python 3.10)
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib

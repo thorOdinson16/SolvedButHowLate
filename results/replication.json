@@ -1,0 +1,114 @@
+{
+ "obs_all|windows|calls_to_patch": {
+  "n": 39,
+  "rho": 0.5148087462381244,
+  "lo": 0.22333292244859573,
+  "hi": 0.7355945047686789
+ },
+ "e3_runs|windows|calls_to_patch": {
+  "n": 35,
+  "rho": 0.5698163215009576,
+  "lo": 0.2725736516078996,
+  "hi": 0.7985378989873883
+ },
+ "rich|windows|calls_to_patch": {
+  "n": 23,
+  "rho": 0.3530044125827362,
+  "lo": -0.1040385954192933,
+  "hi": 0.712338794192065
+ },
+ "fastapi|windows|calls_to_patch": {
+  "n": 16,
+  "rho": 0.5684541731227425,
+  "lo": 0.07849550308544623,
+  "hi": 0.8433839557861578
+ },
+ "partial_obs|windows|calls_to_patch|ctrl=patch_lines,issue_chars": {
+  "n": 39,
+  "partial_rho": 0.5058883019299666
+ },
+ "obs_all|windows|tool_calls_all": {
+  "n": 71,
+  "rho": 0.4257316338982112,
+  "lo": 0.22073323161041558,
+  "hi": 0.6016435710167346
+ },
+ "e3_runs|windows|tool_calls_all": {
+  "n": 71,
+  "rho": 0.4506387423067092,
+  "lo": 0.23830698972077297,
+  "hi": 0.6298122431776005
+ },
+ "rich|windows|tool_calls_all": {
+  "n": 42,
+  "rho": 0.41452888743792815,
+  "lo": 0.11363176553258245,
+  "hi": 0.6592886607524668
+ },
+ "fastapi|windows|tool_calls_all": {
+  "n": 29,
+  "rho": 0.35234348903975854,
+  "lo": -0.0028775026622976396,
+  "hi": 0.6233314267475275
+ },
+ "partial_obs|windows|tool_calls_all|ctrl=patch_lines,issue_chars": {
+  "n": 71,
+  "partial_rho": 0.4097059380388346
+ },
+ "obs_all|file_lines_max|calls_to_patch": {
+  "n": 39,
+  "rho": 0.511248742444077,
+  "lo": 0.18680629195596973,
+  "hi": 0.7380871871896926
+ },
+ "e3_runs|file_lines_max|calls_to_patch": {
+  "n": 35,
+  "rho": 0.5223036845587707,
+  "lo": 0.19667510026535845,
+  "hi": 0.7674501243825307
+ },
+ "rich|file_lines_max|calls_to_patch": {
+  "n": 23,
+  "rho": 0.3468899747353984,
+  "lo": -0.11479714103897233,
+  "hi": 0.6735824396968612
+ },
+ "fastapi|file_lines_max|calls_to_patch": {
+  "n": 16,
+  "rho": 0.4373161098889103,
+  "lo": -0.16090847818805462,
+  "hi": 0.8015702455988079
+ },
+ "partial_obs|file_lines_max|calls_to_patch|ctrl=patch_lines,issue_chars": {
+  "n": 39,
+  "partial_rho": 0.5202851767307962
+ },
+ "obs_all|file_lines_max|tool_calls_all": {
+  "n": 71,
+  "rho": 0.4409962451778871,
+  "lo": 0.2058157329949069,
+  "hi": 0.6155779596517127
+ },
+ "e3_runs|file_lines_max|tool_calls_all": {
+  "n": 71,
+  "rho": 0.43909205225096093,
+  "lo": 0.20968676519398766,
+  "hi": 0.618773045578703
+ },
+ "rich|file_lines_max|tool_calls_all": {
+  "n": 42,
+  "rho": 0.43803290284286145,
+  "lo": 0.11210578447625474,
+  "hi": 0.6972358758183919
+ },
+ "fastapi|file_lines_max|tool_calls_all": {
+  "n": 29,
+  "rho": 0.31748099418047193,
+  "lo": -0.0638581584466519,
+  "hi": 0.6315012481915923
+ },
+ "partial_obs|file_lines_max|tool_calls_all|ctrl=patch_lines,issue_chars": {
+  "n": 71,
+  "partial_rho": 0.4370108081780439
+ }
+}
